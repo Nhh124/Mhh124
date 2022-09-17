@@ -3,6 +3,10 @@
 ### My Tech Stack
 ![Android](https://img.shields.io/badge/-Flutter-blue)
 
+#### State Management
+![Provider](https://img.shields.io/badge/-Provider-blue)
+![Bloc](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/felangel/82f21583d9f4a8334c21ae7d412d476a/raw/f94d2a59fa63c3132cb3a085e357b7af822ccf34/badge.json)
+
 #### Database
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![FireBase](https://img.shields.io/badge/-Firebase-orange)
