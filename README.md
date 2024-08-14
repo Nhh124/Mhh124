@@ -2,6 +2,7 @@
 
 ### My Tech Stack
 ![Android](https://img.shields.io/badge/-Flutter-blue)
+![Backend](https://img.shields.io/badge/-Java-blue)
 
 #### State Management
 ![Provider](https://img.shields.io/badge/-Provider-blue)
